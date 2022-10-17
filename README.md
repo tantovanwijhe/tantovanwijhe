@@ -5,4 +5,4 @@
 - 🤔 I will look for help with JavaScript and React.
 - 🏎 Ask me about Formula 1 and I will answer like an encycolpedia.
 - 📫 How to reach me: https://www.linkedin.com/in/tantovanwijhe/
-- ⌨️ Fun fact: I have a top speed of 131.5 WPM
+- ⌨️ Fun fact: I have a top speed of 134.7 WPM
